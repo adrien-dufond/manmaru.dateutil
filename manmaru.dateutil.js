@@ -1,5 +1,5 @@
 /**
-	Utilities for generate lorem ipsum text.
+	Utilities for date manipulating.
 	Inspired from CASA Lib / AS 2.0 (v.10/06/08) - Aaron Clinger, David Nelson
 	
 	@author Adrien Dufond - manmaru, Inc.
