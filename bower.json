@@ -1,0 +1,18 @@
+{
+  "name": "manmaru.dateutil",
+  "main": "manmaru.dateutil.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrien-dufond/manmaru.dateutil.git"
+  },
+  "authors": [
+    "Adrien Dufond <adrien.dufond@gmail.com>"
+  ],
+  "description": "javascript utilities for date manipulating",
+  "keywords": [
+    "date",
+    "manmaru"
+  ],
+  "license": "MIT",
+  "homepage": "www.manmaru.fr"
+}
